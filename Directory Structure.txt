@@ -1,0 +1,12 @@
+Optimizing-Team-Dynamics-with-Personality-Clustering/
+├── data/
+│   ├── traits_original.csv
+│   ├── traits_scaled.csv
+│   ├── cluster_labels.csv
+│   ├── teams.txt
+│   └── teams_random.txt
+├── output/
+│   └── results.txt
+├── scripts/
+│   └── team_diversity.py
+└── README.md
